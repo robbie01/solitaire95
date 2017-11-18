@@ -1,0 +1,6 @@
+[package]
+name = "solitaire95"
+version = "0.1.0"
+authors = ["robbie0630 <robbiedagamer@live.com>"]
+
+[dependencies]
